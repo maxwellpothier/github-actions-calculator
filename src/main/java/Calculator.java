@@ -1,4 +1,5 @@
 // Init github action
+// Linked actions to test
 class Calculator {
 
     Calculator(){
