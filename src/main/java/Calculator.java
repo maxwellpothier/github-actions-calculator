@@ -1,4 +1,4 @@
-
+// Init github action
 class Calculator {
 
     Calculator(){
